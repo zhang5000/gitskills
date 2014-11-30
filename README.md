@@ -1,4 +1,5 @@
 gitskills
 
-switch is fast and not simple
-=========
+=======
+switch is fast and simple
+=======
